@@ -27,3 +27,7 @@ Comme dit précedemment, j'ai suivis des formations de découverte mais le progr
 * 🎵 J'écoute des styles de musiques variés et aime en découvrir d'avantage.
 
 * 🕹 Je suis aussi très joueur (je parle bien évidemment de jeux vidéo et non de paris sportifs).
+
+---
+
+[Mon linkedin](https://www.linkedin.com/in/galaad-saintobert-developpeur-informatique-alternance/)
