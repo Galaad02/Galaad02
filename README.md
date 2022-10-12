@@ -30,4 +30,4 @@ Comme dit précedemment, j'ai suivis des formations de découverte mais le progr
 
 ---
 
-[Mon linkedin](https://www.linkedin.com/in/galaad-saintobert-developpeur-informatique-alternance/)
+[👔 linkedin](https://www.linkedin.com/in/galaad-saintobert-developpeur-informatique-alternance/)
